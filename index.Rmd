@@ -17,4 +17,4 @@ output:
   postcards::onofre
 ---
  
-My name is Amber Chiodini and I am currently a part-time undergraduate student at Northwestern University and am majoring in Biological Sciences 👩🎓. I also work full-time as a research technician in a lab that studies electrophysiology in fish 🐟. I have been working in laboratory animal science and biomedical research since 2018 🐁🧪. I plan to continue my education after I graduate and become a data scientist 🌠. Feel free to click on any the links below: 
+My name is Amber Chiodini and I am currently a part-time undergraduate student at Northwestern University and am majoring in Biological Sciences 👩🎓. I also work full-time as a research technician in a lab that studies electrophysiology in 🐟. I have been working in laboratory animal science and biomedical research since 2018 🐁🧪. I plan to continue my education after I graduate and become a data scientist 🌠. Feel free to click on any the links below: 

@@ -13,6 +13,8 @@ links:
     url: "https://www.linkedin.com/in/amber-chiodini-9699b211b/"
   - label: Podcast
     url: "https://swhn19.com/"
+  - label: Blog
+    url: "https://amberchiodini.github.io/website/"
   - label: Email
     url: "mailto:amber.park@northwestern.edu"
 output:
